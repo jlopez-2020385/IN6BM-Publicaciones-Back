@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "5b890f12-e847-4eed-98cd-b8c54b95c9b3",
+		"name": "Publicaciones KINAL",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37660302"
+	},
+	"item": [
+		{
+			"name": "Comentario",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"postId\": \"663cc92f3a4a5e2e8ab12345\",\r\n  \"user\": \"663cc9513a4a5e2e8ab67890\",\r\n  \"content\": \"¡Este es un comentario de prueba!\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/publicationKinal/v1/user/addUserName",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"publicationKinal",
+						"v1",
+						"user",
+						"addUserName"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Publicacuion",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"title\": \"Cómo configurar una red local\",\r\n  \"description\": \"En esta publicación explico cómo hacer una red LAN con 3 computadoras.\",\r\n  \"course\": \"Redes\",\r\n  \"user\": \"681d5944a06994f197a74899\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/publicationKinal/v1/post/createPost",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"publicationKinal",
+						"v1",
+						"post",
+						"createPost"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/publicationKinal/v1/post/getPosts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"publicationKinal",
+						"v1",
+						"post",
+						"getPosts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

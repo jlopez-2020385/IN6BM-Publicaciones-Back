@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "68210ddfe4066b5a3ebe53e4"
+  },
+  "title": "Deforestacion",
+  "description": "La deforestación se define como la conversión directa",
+  "course": "Programación",
+  "profilePicture": "wp4198956-mgaming-wallpapers-1746996703301.jpg",
+  "authorName": "Anderson Gorge Luis",
+  "authorPhoto": "electricidad.3-1746996703304.png",
+  "comments": [
+    {
+      "$oid": "682120be7b1b33c4a15b92c3"
+    },
+    {
+      "$oid": "682122ee0f4f8dbdf7ed666c"
+    },
+    {
+      "$oid": "68215f95d79e122bd4054a44"
+    },
+    {
+      "$oid": "682176d66471e4e85857d1b7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-11T20:51:43.308Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "68210e1b474768e2b047cd2b"
+  },
+  "title": "Deforestacion",
+  "description": "La deforestación se define como la conversión directa y/o inducida de la cobertura de bosque a otro tipo de cobertura en un periodo de tiempo determinado, y se realiza generalmente para dar lugar a actividades agrícolas, ganaderas, urbanísticas o mineras.",
+  "course": "Programación",
+  "profilePicture": "wp4198956-mgaming-wallpapers-1746996763856.jpg",
+  "authorName": "Anderson Gorge Luis",
+  "authorPhoto": "electricidad.3-1746996763860.png",
+  "comments": [
+    {
+      "$oid": "682114f5af03635be3b4a75d"
+    },
+    {
+      "$oid": "68211516af03635be3b4a763"
+    },
+    {
+      "$oid": "682120a37b1b33c4a15b92bd"
+    },
+    {
+      "$oid": "682125dd4e007e08bcf95b79"
+    },
+    {
+      "$oid": "682130b751a996bbfe8563d2"
+    },
+    {
+      "$oid": "682131ef51a996bbfe8563ec"
+    },
+    {
+      "$oid": "682161bad79e122bd4054a54"
+    },
+    {
+      "$oid": "682164a7d79e122bd4054a5e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-11T20:52:43.868Z"
+  },
+  "__v": 8
+},
+{
+  "_id": {
+    "$oid": "682165b2d79e122bd4054a63"
+  },
+  "title": "Deforestacion",
+  "description": "La deforestación se define como la conversión directa y/o inducida de la cobertura de bosque a otro tipo de cobertura en un periodo de tiempo determinado, y se realiza generalmente para dar lugar a actividades agrícolas, ganaderas, urbanísticas o mineras.",
+  "course": "Programación",
+  "profilePicture": "wp4198956-mgaming-wallpapers-1747019186535.jpg",
+  "authorName": "Anderson Gorge Luis",
+  "authorPhoto": "electricidad.3-1747019186541.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2025-05-12T03:06:26.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682165d2d79e122bd4054a67"
+  },
+  "title": "Deforestacion",
+  "description": "La deforestación se define como la conversión directa y/o inducida de la cobertura de bosque a otro tipo de cobertura en un periodo de tiempo determinado, y se realiza generalmente para dar lugar a actividades agrícolas, ganaderas, urbanísticas o mineras.",
+  "course": "Programación",
+  "profilePicture": "wp4198956-mgaming-wallpapers-1747019218834.jpg",
+  "authorName": "Anderson Gorge Luis",
+  "authorPhoto": "electricidad.3-1747019218838.png",
+  "comments": [
+    {
+      "$oid": "682171f96471e4e85857d173"
+    },
+    {
+      "$oid": "682172e46471e4e85857d181"
+    },
+    {
+      "$oid": "6821740c6471e4e85857d187"
+    },
+    {
+      "$oid": "682175956471e4e85857d191"
+    },
+    {
+      "$oid": "682175e86471e4e85857d1a3"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-05-12T03:06:58.842Z"
+  },
+  "__v": 5
+}]
